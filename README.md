@@ -1,0 +1,1 @@
+In CS 300 we worked to develop c++ code with algorithmic designs. The class mostly worked with a gradual milestones to the newly created project two which was based on recommendation from project one. I had chosen vector as the ideal choice so my project two is vector based. 
