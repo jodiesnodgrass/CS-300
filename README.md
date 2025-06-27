@@ -18,3 +18,4 @@ In this course CS 300 it was the first class I have had to create an entire code
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 
+In these projects I learned a few things that need improvement. I now know that my pseudo code must be more readable. With more details the code could be maintained and adapted easily. 
